@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be72cedc-bd36-49f8-a5d8-987bd1d7db91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Account.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Banner.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Cover.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/context/Countries.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/hooks/useCountries.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/404.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/about.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/signup.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +109,10 @@
       <workItem from="1744770348312" duration="167000" />
       <workItem from="1744796082985" duration="8138000" />
       <workItem from="1744808530005" duration="1895000" />
-      <workItem from="1744968511430" duration="8453000" />
+      <workItem from="1744968511430" duration="9255000" />
+      <workItem from="1745054005872" duration="37000" />
+      <workItem from="1745054304236" duration="137000" />
+      <workItem from="1745305824041" duration="1597000" />
     </task>
     <servers />
   </component>
