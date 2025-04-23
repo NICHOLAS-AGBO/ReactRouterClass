@@ -2,6 +2,7 @@ import type { Route } from "./+types/home";
 import Header from "~/components/Header";
 import Cover from "~/components/Cover";
 import Banner from "~/components/Banner";
+import Slides from "~/components/Slides";
 
 
 export function meta({}: Route.MetaArgs) {
@@ -16,5 +17,6 @@ export default function Home() {
     <Header />
     <Cover />
     <Banner/>
+    <Slides/>
   </>;
 }
